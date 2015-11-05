@@ -1,0 +1,21 @@
+{
+  "name": "hugla-socket.io",
+  "version": "0.1.0",
+  "description": "hugla web framework's node back-end socket.io module",
+  "keywords": [
+    "web",
+    "framework",
+    "hugla",
+    "socket.io"
+  ],
+  "license": "MIT",
+  "repository": "hugla/hugla-node-socket.io",
+  "author": "noosxe <noosx.e@gmail.com> (https://noosxe.com/)",
+  "dependencies": {
+    "hugla-logger": "0.1.x",
+    "socket.io": "1.3.7"
+  },
+  "devDependencies": {
+
+  }
+}
